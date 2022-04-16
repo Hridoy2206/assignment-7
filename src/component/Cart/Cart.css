@@ -1,0 +1,30 @@
+.cartSection{
+    background-color: rgb(191 255 253);
+    padding: 10px;
+    margin: 30px;
+    width: 100%;
+    border-radius: 5px;
+}
+.persisBtn{
+    border: none;
+    padding: 5px 60px;
+    background-color: #444;
+    color: white;
+    cursor: pointer;
+    transition: .3s;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+.persisBtn:hover{
+    background-color: #ff5200;
+}
+.coursePrice{
+    text-align: left;
+    padding: 20px;
+}
+.orderTitle{
+    color: #666;
+}
+.coursePrice h6{
+    color: #ff5200;
+}
